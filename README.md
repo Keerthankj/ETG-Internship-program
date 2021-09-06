@@ -1,5 +1,5 @@
-# ETG-Internship-program
-## Inventory Management System
+# Elite Techno Groups-Internship-(Python For ML/AI)
+## Inventory Management System(IMS) 
 In this,it included 4 files. The files are,, 
 ##### 1.Adding_new_products.ipynb
 This is Used to Add Products. 
